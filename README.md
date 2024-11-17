@@ -1,6 +1,6 @@
 # expense_manager
 
-An Expense Manager built using flutter.
+An Expense Manage0r app built using flutter.
 
 ## Getting Started
 
